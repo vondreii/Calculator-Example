@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8CC12648-9458-40C0-A9D2-521282E87B71}</ProjectGuid>
+    <ProjectGuid>{69E077F3-B8AA-4B27-996F-E2DB2D812A1F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>MyNewCalculator</RootNamespace>
     <AssemblyName>MyNewCalculator</AssemblyName>
@@ -35,10 +35,11 @@
   <PropertyGroup />
   <PropertyGroup />
   <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
     <ApplicationIcon>Calculator.ico</ApplicationIcon>
   </PropertyGroup>
-  <PropertyGroup />
-  <PropertyGroup />
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />

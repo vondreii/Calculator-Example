@@ -2,9 +2,9 @@ C:\Users\Sharl\Desktop\MyNewCalculator\MyNewCalculator\MyNewCalculator\bin\Debug
 C:\Users\Sharl\Desktop\MyNewCalculator\MyNewCalculator\MyNewCalculator\bin\Debug\MyNewCalculator.exe
 C:\Users\Sharl\Desktop\MyNewCalculator\MyNewCalculator\MyNewCalculator\bin\Debug\MyNewCalculator.pdb
 C:\Users\Sharl\Desktop\MyNewCalculator\MyNewCalculator\MyNewCalculator\obj\Debug\MyNewCalculator.csprojAssemblyReference.cache
-C:\Users\Sharl\Desktop\MyNewCalculator\MyNewCalculator\MyNewCalculator\obj\Debug\MyNewCalculator.Calculator.resources
 C:\Users\Sharl\Desktop\MyNewCalculator\MyNewCalculator\MyNewCalculator\obj\Debug\MyNewCalculator.Properties.Resources.resources
 C:\Users\Sharl\Desktop\MyNewCalculator\MyNewCalculator\MyNewCalculator\obj\Debug\MyNewCalculator.csproj.GenerateResource.cache
 C:\Users\Sharl\Desktop\MyNewCalculator\MyNewCalculator\MyNewCalculator\obj\Debug\MyNewCalculator.csproj.CoreCompileInputs.cache
 C:\Users\Sharl\Desktop\MyNewCalculator\MyNewCalculator\MyNewCalculator\obj\Debug\MyNewCalculator.exe
 C:\Users\Sharl\Desktop\MyNewCalculator\MyNewCalculator\MyNewCalculator\obj\Debug\MyNewCalculator.pdb
+C:\Users\Sharl\Desktop\MyNewCalculator\MyNewCalculator\MyNewCalculator\obj\Debug\MyNewCalculator.Calculator.resources
