@@ -1,14 +1,23 @@
-# Calculator-Example
+# calculator
 
-This is the source code for a calculator written in C#.
+## About 
 
-![calculator](/resources/image.PNG)
+This is the source code for a simple calculator app that was made to replicate modern calculator apps that can be seen on smartphones. It was created as a Visual Studio Windows Form Application and written in C#. 
 
-## To run 
+Created with Visual Studio 2017.
 
-Run the MyNewCalculator.exe file.
+## To Run
 
-The source code can be opened by selecting MyNewCalculator/MyNewCalculator.sln, which should open if Visual Studio is installed. Created with Visual Studio 2017.
+### Production 
 
+* Run the MyNewCalculator.exe file.
 
+### Development
 
+* The source code can be opened by selecting **MyNewCalculator/MyNewCalculator.sln**, which should open if Visual Studio is installed. 
+* Build the project.
+* You can then select the **run** option, which looks like a green play button. 
+
+<br>
+
+![calculator](resources/image.PNG)
